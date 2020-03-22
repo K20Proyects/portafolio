@@ -56,3 +56,20 @@
       }
   </h3>
  
+   <h3>
+  UPDATE 1.3.1 "RESPONSIVE-UPDATE"- CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>Fully Responsive HOME-PAGE</li><br>
+  <li>Mobile Support</li><br>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 03/22/2020<br>
+          TIME : 3:57 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
+ 
