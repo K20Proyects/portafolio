@@ -1,4 +1,4 @@
-# PORTAFOLIO
+# PORTAFOLIO 2020
 
 <h3>
   UPDATE 1.1 - CHANGELOG { 
@@ -30,6 +30,27 @@
           DEV : Daniel Plata García<br>
           DATE : 03/16/2020<br>
           TIME : 5:08 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
+  
+  <h3>
+  UPDATE 1.3 "RESPONSIVE-UPDATE"- CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>added 4K and Tablet support for HOME-PAGE</li><br>
+  <li>EN-LINEA fix</li><br>
+  <li>FOOTER fix</li><br>
+  <li>NAVBAR fix</li><br>
+  <li>MAIN-1 fix</li><br>
+  <li>MY PROYECTS bigger</li><br>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 03/21/2020<br>
+          TIME : 5:02 PM<br>
       </h5>
   <h3>
       }
