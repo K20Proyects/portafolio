@@ -30,19 +30,42 @@
 	<!--------------- CONTAINER 1 ------------------->
 	<div id="container-1">
 
-		<nav>
-			<!-- <div id="nav-bar"> -->
-				<h1>K20</h1>
-				<div id="navLinks">
-					<ul>
-						<li><a href="pages/about-me.html">QUIÉN SOY</a></li>
-						<li class="li"><a href="#myProyects">PROYECTOS</a></li>
-						<li><a href="pages/experience.html">EXPERIENCIA</a></li>
-						<li class="li-contact"><a href="#footer-pc-1">CONTACTO</a></li>
-					</ul>
-				</div>
-			<!-- </div> -->
-		</nav>
+		<div id="nav">
+			<h1>K20</h1>
+			<div id="navLinks">
+				<ul>
+					<li><a href="pages/about-me.html">QUIÉN SOY</a></li>
+					<li class="li"><a href="#myProyects">PROYECTOS</a></li>
+					<li><a href="pages/experience.html">EXPERIENCIA</a></li>
+					<li class="li-contact"><a href="#footer-pc-1">CONTACTO</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<h1 id="title-mobile">K20</h1>
+
+		<nav role="navigation">
+	  	
+	  	<div id="menuToggle">
+		    
+		    <input type="checkbox" />
+		    
+		   
+		    <span></span>
+		    <span></span>
+		    <span></span>
+		    
+		    <ul id="menu">
+		      <a href="pages/about-me.html"><li>QUIÉN SOY</li></a>
+		      <hr>
+		      <a href="#myProyects"><li>PROYECTOS</li></a>
+		      <hr>
+		      <a href="pages/experience.html"><li>EXPERIENCIA</li></a>
+		      <hr>
+		      <a href="#footer-pc-1"><li>CONTACTO</li></a>
+		    </ul>
+	  </div>
+	</nav>
 
 		<div id="main-1">
 			<h1>DANIEL PLATA GARCÍA</h1>
@@ -131,7 +154,7 @@
 						<ul >LENGUAJES
 							<li>HTML</li>
 							<li>CSS</li>
-							<li>JAVASCRIPT</li>
+							<li id="nose">JAVASCRIPT</li>
 						</ul>
 						<h2>EN LÍNEA</h2>
 					</div>
@@ -149,12 +172,14 @@
 
 	<footer>
 		<div id="footer-pc-1">
-			<div class="footer-11">
+			<div class="footer-11" id="footer-fix-1">
 				<h1>CONTÁCTAME</h1>
 				<h2>¡Sin Compromiso!</h2>
 			</div>
 
-			<div class="footer-11">
+			<hr id="hr-footer">
+
+			<div class="footer-11" id="footer-fix-2">
 				<div class="footer-contact">
 					<img src="images/icons/call.png">
 					<p>3016023936</p>
