@@ -23,19 +23,45 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<nav>
+		<div id="nav">
 			<h1>K20</h1>
 			<div id="navLinks">
 				<ul>
-					<li class="li"><a href="about-me.html">QUIÉN SOY</a></li>
+					<li id="li"><a href="about-me.html">QUIÉN SOY</a></li>
 					<li><a href="../index.html">PROYECTOS</a></li>
 					<li><a href="experience.html">EXPERIENCIA</a></li>
-					<li><a href="#footer-pc-1">CONTACTO</a></li>
+					<li class="li-contact"><a href="#footer-pc-1">CONTACTO</a></li>
 				</ul>
 			</div>
-		</nav>
+		</div>
+
+		<h1 id="title-mobile">K20</h1>
+
+		<nav role="navigation">
+	  	
+	  	<div id="menuToggle">
+		    
+		    <input type="checkbox" />
+		    
+		   
+		    <span></span>
+		    <span></span>
+		    <span></span>
+		    
+		    <ul id="menu">
+		      <a href="pages/about-me.html"><li>QUIÉN SOY</li></a>
+		      <hr>
+		      <a href="#myProyects"><li>PROYECTOS</li></a>
+		      <hr>
+		      <a href="pages/experience.html"><li>EXPERIENCIA</li></a>
+		      <hr>
+		      <a href="#footer-pc-1"><li>CONTACTO</li></a>
+		    </ul>
+	  </div>
+	</nav>
 
 
 		<!------------------------ CONTENT 1 -------------------------->
@@ -45,33 +71,74 @@
 				
 			</div>
 
-			<h1>¿QUE QUIÉN SOY?</h1>
+			<h1>DATOS PERSONALES</h1>
 		</div>
 
 		<!------------------------ CONTENT 2 -------------------------->
 
+		<div id="datos-banner">
+			<div id="datos-card">
+				<ul>
+					<li>CIUDAD : <p>Bucaramanga - Santander, Colombia</p></li>
+					<li>BARRIO : <p>Asturias 2</p></li>
+					<li>DIRECCIÓN : <p>TRANSVERSAL 29 # 105-44</p></li>
+					<li>NOMBRE : <p>Daniel Schnayder Plata García</p></li>
+					<li>CÉDULA : <p>1098825933</p></li>
+					<li id="li-1">TELÉFONO/CEL : <p>3016023936</p></li>
+					<li id="li-2">CORREO ELECTRÓNICO : <p>danielplata79@gmail.com - dsplata3@misena.edu.co</p></li>
+				</ul>
+			</div>	
+		</div>
+
+		<div id="container-banner">
+			<h1>¿QUE QUIÉN SOY? . .</h1>
+			<img src="../images/icons/about.png">
+		</div>
+
 		<div id="container-1">
+
 			<div id="main-2">
 				<div class="main-22">
-					<img src="../images/concept10.jpg">
-					<h1>TITULO 1</h1>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+					<div class="main-22-1">
+						<img src="../images/concept10.jpg">
+					</div>	
+					
+					<div class="main-22-2">
+						<div class="main-22-21">
+							<h1>TITULO 1</h1>
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+						</div>
+					</div>
 				</div>
 
-				<hr>
+				<hr id="hr-main">
 
-				<div class="main-23">
-					<img src="../images/concept3.jpg">
-					<h1>TITULO 1</h1>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+				<div class="main-22" id="main-32">
+					<div id="main-22-12">
+						<div class="main-22-22">
+							<h1>TITULO 1</h1>
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+						</div>
+					</div>
+
+					<div class="main-22-1" id="main-22-11">
+						<img src="../images/concept3.jpg">
+					</div>	
 				</div>
 
-				<hr>
+				<hr id="hr-main">
 
-				<div class="main-24">
-					<img src="../images/concept13.jpg">
-					<h1>TITULO 1</h1>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+				<div class="main-22" id="main-33">
+					<div class="main-22-1" id="main-22-3">
+						<img src="../images/concept13.jpg">
+					</div>	
+					
+					<div class="main-22-2">
+						<div class="main-22-21" id="main-22-31">
+							<h1>TITULO 1</h1>
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+						</div>
+					</div>
 				</div>
 
 			</div>
@@ -81,12 +148,14 @@
 
 		<footer>
 		<div id="footer-pc-1">
-			<div class="footer-11">
+			<div class="footer-11" id="footer-fix-1">
 				<h1>CONTÁCTAME</h1>
 				<h2>¡Sin Compromiso!</h2>
 			</div>
 
-			<div class="footer-11">
+			<hr id="hr-footer">
+
+			<div class="footer-11" id="footer-fix-2">
 				<div class="footer-contact">
 					<img src="../images/icons/call.png">
 					<p>3016023936</p>

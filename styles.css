@@ -390,6 +390,8 @@ footer {
 		padding: 10px;
 	}
 
+	/*HIDE HR FOOTER*/
+
 	#hr-footer {
 		visibility: hidden;
 	}
