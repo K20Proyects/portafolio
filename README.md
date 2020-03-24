@@ -81,6 +81,7 @@
 <ul>
   <li>Fully Responsive ABOUT-PAGE</li><br>
   <li>Mobile Support</li><br>
+  <li>Minor bug fix</li><br>
 </ul> 
       <h5>
           DEV : Daniel Plata García<br>
