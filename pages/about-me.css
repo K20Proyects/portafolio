@@ -181,6 +181,8 @@ body {
 				display: block;
 				margin: auto;
 				margin-top: 20px;
+				margin-right: 0px;
+				background: /*red*/;
 			}
 
 			#container-banner img {
@@ -188,6 +190,7 @@ body {
 				height: 200px;
 				margin: auto;
 				margin-top: -38px;
+				background: /*blue*/;
 			}
 
 #container-1 {
@@ -240,10 +243,11 @@ body {
 				height: 60%;
 				box-sizing: border-box;
 				padding: 15px;
-				margin-left: -30px;
+	
 				margin-top: 50px;
 				border-radius: 10px;
 			}
+
 
 		.main-22 h1 {
 			color: orange;
@@ -278,7 +282,7 @@ body {
 				box-sizing: border-box;
 				padding: 15px;
 				margin-top: 70px;
-				margin-left: 20px;
+				margin-left: 500px;
 				border-radius: 10px;
 			}
 
@@ -747,7 +751,7 @@ footer {
 	}
 }
 
-@media only screen and (max-width: 418px) {
+@media only screen and (max-width: 430px) {
 
 	#datos-card {
 		padding-top: 10px;
@@ -774,9 +778,7 @@ footer {
 		margin-left: -23px;
 	}
 
-	#main-22-31 {
-		margin-left: 43px;
-	}
+	
 
 }	
 
@@ -1212,3 +1214,87 @@ nav {
 
 }
 
+@media only screen and (max-width: 996px) {
+
+	.main-22-2 {
+		background: ;
+		margin-left: 0px;
+	}
+
+		.main-22-21 {
+			background: ;
+			margin: auto;
+		}
+
+		.main-22-1 img {
+			margin-top: 10px;
+		}
+
+	#main-32 {
+		background: #24242a;
+		margin-top: 30px;
+	}
+
+	#main-33 {
+		margin-top: 20px;
+		background: ;
+		height: 561px;
+	}
+}
+
+@media only screen and (max-width: 550px) and (min-width: 438px) {
+
+	#datos-card {
+		background: ;
+	}
+		#li-2 p {
+			background: ;
+			width: 150px;
+			text-align: center;
+			margin-left: 50%;
+			padding-left: 0px;
+		}
+}
+
+@media only screen and (max-width: 433px) and (min-width: 346px) {
+
+	#datos-card {
+		background: ;
+		padding-top: 1px;
+		height: 380px;
+	}
+		#datos-card li {
+			margin-left: 20px;
+			margin-top: 26px;
+		}
+}
+
+@media only screen and (max-width: 433px) and (min-width: 406px) {
+
+	#datos-card {
+		padding-top: 15px;
+	}
+
+}
+
+@media only screen and (max-width: 345px) {
+
+	#datos-card li {
+		margin-left: 15px;
+		background: ;
+	}
+}
+
+@media only screen and (max-width: 323px) {
+
+	#datos-card li {
+		margin-top: 22px;
+	}
+}
+
+@media only screen and (max-width: 310px) {
+
+	#datos-card {
+		overflow: auto;
+	}
+}
