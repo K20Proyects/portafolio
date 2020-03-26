@@ -925,3 +925,87 @@ nav {
 			width: 125px;	
 		}
 }
+
+@media only screen and (max-width: 500px) {
+
+	#container-2 {
+		height: 2100px;
+	}
+
+	#myProyects {
+		height: 3.5%;
+	}
+
+	#main-22 {
+		height: 96.5%;
+	}
+
+	.main-23 {
+		width: 100%;
+		height: 600px;
+	}
+		.main-23-body {
+			width: 100%;
+			margin: auto;
+		}
+
+		.main-23-body h2 {
+			padding-top: 30px;
+		}
+
+			#nose {
+				margin-left: 72%;
+			}
+
+}
+
+@media only screen and (max-width: 426px) {
+
+	#nose {
+		margin-left: 68%;
+	}
+
+	.main-23-header {
+		height: 45%;
+	}
+
+	.main-23-body {
+		height: 55%;
+	}
+
+}
+
+@media only screen and (max-width: 365px) {
+
+	.main-23-header {
+		height: 40%;
+	}
+
+	.main-23-body {
+		height: 60%;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 332px) {
+
+	#nose {
+		margin-left: 60%;
+	}
+
+	.main-23-header {
+		height: 35%;
+	}
+
+	.main-23-body {
+		height: 65%;
+	}
+
+		.main-23-body h2 {
+			padding-top: 100px;
+		}
+
+
+}
