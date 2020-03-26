@@ -72,9 +72,7 @@
   <h3>
       }
   </h3>
-  
-  
-   <h3>
+          <h3>
   UPDATE 1.3.2 "RESPONSIVE-UPDATE"- CHANGELOG { 
 </h3>
   <br>
@@ -91,4 +89,47 @@
   <h3>
       }
   </h3>
+ 
+ <ul>
+    <li>
+ 
+   <h3>
+  UPDATE 1.3.2.10 "RESPONSIVE-UPDATE"- CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>"DATOS" card fixed</li><br>
+  <li>"QUIÉN SOY" cards margin fixed</li><br>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 03/24/2020<br>
+          TIME : 11:00 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
+  
+   <li>
+ 
+   <h3>
+  UPDATE 1.3.2.20 "RESPONSIVE-UPDATE"- CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>"DATOS" card fixed 2</li><br>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 03/24/2020<br>
+          TIME : 11:35 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
+ 
+    
+  </ul>
+  
+  
  
