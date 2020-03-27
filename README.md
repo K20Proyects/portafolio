@@ -130,8 +130,8 @@
  
     
   </ul>
-  
-    <h3>
+ </h3>
+ <h3>
   UPDATE 1.3.3 "RESPONSIVE-UPDATE"- CHANGELOG { 
 </h3>
   <br>
