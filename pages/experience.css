@@ -941,37 +941,55 @@ footer {
 @media only screen and (max-width: 450px) {
 
 	.table-content {
-		font-size: 13px;
+		font-size: 16px;
+	}
+
+	#content-1 {
+		width: 90%;
+		background: ;
+	}
+
+}
+
+@media only screen and (max-width: 390px) {
+
+	.table-content {
+		font-size: 15px;
 	}
 
 }
 
 @media only screen and (max-width: 353px) {
 
-	#content-1 {
-		
-		background: ;
-	}
-
+	.table-content {
+		font-size: 15px;
 	}
 }
 
-@media only screen and (max-width: 339px) {
 
-	
-	.main-24 {
-		height: 60%;
+@media only screen and (max-width: 337px) {
+
+	.table-title {
+		width: 100%;
 	}
 
 	.table-content {
-		font-size: 11px;
+		width: 100%;
+		font-size: 14px;
 	}
-
-	#table {
-		height: 100%;
-	}
-
-	
 
 }
 
+
+@media only screen and (max-width: 323px) {
+
+	.table-title {
+		width: 100%;
+	}
+
+	.table-content {
+		width: 100%;
+		font-size: 13px;
+	}
+
+}
