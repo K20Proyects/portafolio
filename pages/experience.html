@@ -23,11 +23,12 @@
 	<link rel="manifest" href="../fav/manifest.json">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-	<meta name="theme-color" content="#ffffff">
+	<meta name="theme-color" content="#24242a">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
-	<nav>
+	<div id="nav">
 		<h1>K20</h1>
 		<div id="navLinks">
 			<ul>
@@ -37,12 +38,42 @@
 				<li><a href="#footer-pc-1">CONTACTO</a></li>
 			</ul>
 		</div>
+	</div>
+
+	<h1 id="title-mobile">K20</h1>
+
+		<nav role="navigation">
+	  	
+	  	<div id="menuToggle">
+		    
+		    <input type="checkbox" />
+		    
+		   
+		    <span></span>
+		    <span></span>
+		    <span></span>
+		    
+		    <ul id="menu">
+		      <a href="about-me.html"><li>QUIÉN SOY</li></a>
+		      <hr>
+		      <a href="../index.html"><li>PROYECTOS</li></a>
+		      <hr>
+		      <a href="experience.html"><li>EXPERIENCIA</li></a>
+		      <hr>
+		      <a href="#footer-pc-1"><li>CONTACTO</li></a>
+		    </ul>
+	  </div>
 	</nav>
+
 
 	<!-- CONTENT 1 -->
 
 	<div id="main-1">
 		<div id="main-2">
+			<h1>EXPERIENCIA</h1>
+		</div>
+		
+		<div id="main-3">
 			<h1>EXPERIENCIA</h1>
 		</div>
 	</div>
@@ -62,7 +93,7 @@
 				<table id="table">
 					<tr>
 						<td class="table-title"><h2>Lorem Ipsum is simply</h2> <h3>(2019-2020)</h3></td>
-						<td class="table-content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</td>
+						<td class="table-content"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p></td>
 					</tr>
 					<tr>
 						<td class="table-title"><h2>Lorem Ipsum is simply</h2> <h3>(2019-2020)</h3></td>
@@ -91,16 +122,18 @@
 		</div>
 	</div>
 
-	<!-- FOOTER -->
+	<!------------------------ FOOTER -------------------------->
 
-			<footer>
+		<footer>
 		<div id="footer-pc-1">
-			<div class="footer-11">
+			<div class="footer-11" id="footer-fix-1">
 				<h1>CONTÁCTAME</h1>
 				<h2>¡Sin Compromiso!</h2>
 			</div>
 
-			<div class="footer-11">
+			<hr id="hr-footer">
+
+			<div class="footer-11" id="footer-fix-2">
 				<div class="footer-contact">
 					<img src="../images/icons/call.png">
 					<p>3016023936</p>
