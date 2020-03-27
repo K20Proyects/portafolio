@@ -131,5 +131,20 @@
     
   </ul>
   
-  
+    <h3>
+  UPDATE 1.3.3 "RESPONSIVE-UPDATE"- CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>added 4K and Tablet support for EXPERIENCE-PAGE</li><br>
+  <li>added Mobile support for EXPERIENCE-PAGE</li><br>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 03/27/2020<br>
+          TIME : 1:30 AM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
  
