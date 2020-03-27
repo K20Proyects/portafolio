@@ -148,3 +148,19 @@
       }
   </h3>
  
+ <h3>
+  UPDATE 1.3.3.10 "RESPONSIVE-UPDATE"- CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>Margin improvs</li><br>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 03/27/2020<br>
+          TIME : 1:47 AM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
+ 
