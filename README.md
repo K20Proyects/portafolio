@@ -163,4 +163,21 @@
   <h3>
       }
   </h3>
+
+ 
+<h3>
+  UPDATE 1.4 - CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>Fixed 'PROYECTOS' servers.</li><br> 
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 04/30/2020<br>
+          TIME : 4:31 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
  

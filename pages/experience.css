@@ -991,5 +991,11 @@ footer {
 		width: 100%;
 		font-size: 13px;
 	}
+}
 
+
+@media only screen and (min-width: 1021px) {
+	#main-3 h1{
+		display: none;	
+	}
 }
