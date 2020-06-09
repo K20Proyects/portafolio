@@ -198,3 +198,18 @@
       }
   </h3>
 
+ <h3>
+  UPDATE 1.6 - CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>Todo el contenido añadido</li><br>	
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 06/09/2020<br>
+          TIME : 4:40 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>

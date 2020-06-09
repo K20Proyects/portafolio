@@ -118,7 +118,7 @@ body {
 
 #content-1 {
 	background: #7C7C7F;
-	height: 1100px;
+	height: 2000px;
 	width: 80%;
 	margin: auto;
 	margin-top: -240px;
@@ -141,7 +141,7 @@ body {
 		margin: auto;
 		margin-top:50px;
 		margin-bottom: 50px;
-		background: rgba(0, 0, 0, 0.7);
+		background: url(../images/cool-background5.png);
 		box-sizing: border-box;
 		padding: 30px;
 		border-top: 2px solid orange;
@@ -149,11 +149,11 @@ body {
 	}
 
 		.main-22 h1 {
-			text-align: center;
-			font-style: italic;
-			margin-top: 10px;
-			font-family: 'Caveat', cursive;
-			color: white;
+			text-align: center;	
+			margin-top: 30px;
+			font-family: 'Oswald', sans-serif;
+			font-size: 50px;
+			color: black;	
 		}
 
 		.main-22 h2 {
@@ -163,14 +163,14 @@ body {
 			font-family: 'Caveat', cursive;
 		}
 	#main-23 {
-		height: 71.5%;
+		height: 1600px;
 		background: ;
 		width: 100%;
 	}
 
 	.main-24 {
 		background: rgba(0, 0, 0, 0.7);
-		height: 75%;
+		height: 100%;
 		width: 70%;
 		margin: auto;
 		margin-top: 50px;
@@ -180,7 +180,7 @@ body {
 	.main-25 {
 		background: rgba(0, 0, 0, 0.6);
 		width: 70%;
-		height: 7%;
+		height: 100%;
 		margin: auto;
 		margin-top: 20px;
 		border-top: 2px solid orange;
@@ -237,7 +237,14 @@ body {
 
 			.table-title {
 				color: orange;
+				text-align: center;
+				margin-bottom: 50px;
 			}
+
+				.table-title img {
+					margin-top: 20px;
+					height: 120px;	
+				}
 
 				.table-title h3{
 					color: black;
