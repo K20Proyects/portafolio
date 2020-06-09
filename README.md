@@ -180,4 +180,21 @@
   <h3>
       }
   </h3>
- 
+
+ <h3>
+  UPDATE 1.5 - CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>About-me info added</li><br>
+	<li>La pagina entera se encuentra en mantenimiento</li>
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 06/09/2020<br>
+          TIME : 2:00 PM<br>
+      </h5>
+  <h3>
+      }
+  </h3>
+
