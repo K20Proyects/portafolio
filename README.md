@@ -213,3 +213,19 @@
   <h3>
       }
   </h3>
+
+<h3>
+  UPDATE 1.7 - CHANGELOG { 
+</h3>
+  <br>
+<ul>
+  <li>Fixed experience-resposive and nav selected tab</li><br>	
+</ul> 
+      <h5>
+          DEV : Daniel Plata García<br>
+          DATE : 25/09/2020<br>
+          TIME : 1:23 aM<br>
+      </h5>
+  <h3>
+      }
+  </h3>

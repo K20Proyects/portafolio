@@ -1006,3 +1006,148 @@ footer {
 		display: none;	
 	}
 }
+
+@media only screen and (max-width: 1310px) {
+	
+	#content-1 {
+		height: 2000px;
+		display: ;
+	}	
+	
+	#table {
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.3);
+	}	
+
+	.main-22 h1{
+		color: black;
+		font-size: 50px;
+	}
+	
+}
+
+@media only screen and (max-width: 1176px) {
+	#content-1 {
+		height: 2150px;
+	}	
+}
+
+@media only screen and (max-width: 983px) {
+	#content-1 {
+		height: 2200px;
+	}	
+}
+
+@media only screen and (max-width: 840px) {
+	#content-1 {
+		height: 2300px;
+	}	
+}
+
+@media only screen and (max-width: 770px) and (min-width: 730px) {
+	#content-1 {
+		height: 2350px;
+	}	
+}
+
+@media only screen and (max-width: 675px) {
+	#content-1 {
+		height: 2400px;
+	}	
+}
+
+@media only screen and (max-width: 625px) {
+	#content-1 {
+		height: 2450px;
+	}	
+}
+
+@media only screen and (max-width: 573px) {
+	#content-1 {
+		height: 2630px;
+	}	
+}
+
+@media only screen and (max-width: 525px) {
+	#content-1 {
+		height: 2750px;
+	}	
+}
+
+@media only screen and (max-width: 507px) {
+	#content-1 {
+		height: 2900px;
+	}	
+}
+
+@media only screen and (max-width: 490px) {
+	#content-1 {
+		height: 3000px;
+	}	
+}
+
+@media only screen and (max-width: 459px) {
+	#content-1 {
+		height: 3100px;
+	}	
+}
+
+@media only screen and (max-width: 409px) {
+	#content-1 {
+		height: 3200px;
+	}	
+}
+
+@media only screen and (max-width: 396px) {
+	#content-1 {
+		height: 3250px;
+	}	
+}
+
+#main-22 h1 {
+	align-items: center;
+	justify-content: center;
+	padding-top: 0px;
+}
+
+@media only screen and (max-width: 679px) {
+	.main-22 {
+		padding-top: 10px;
+	}	
+}
+
+@media only screen and (min-width: 584px) and (max-width: 681px) {
+	
+	.main-22 h1 {
+		font-size: 44px;
+	}
+}
+
+@media only screen and (min-width: 608px) and (max-width: 679px) {
+	
+	.main-22 {
+		padding-top: 30px;
+	}
+}
+
+@media only screen and (min-width: 584px) and (max-width: 607px) {
+	
+	.main-22 h1{
+		padding-top: 30px;
+		font-size: 40px;
+	}
+}
+
+.main-22 {
+	background-color: #24242a;
+	background-image: none;
+}
+
+.main-22 h1 {
+	color: white;
+}
+
+#navSelected a{
+	background-color: ;
+	border-bottom: 1px solid orange;
+}

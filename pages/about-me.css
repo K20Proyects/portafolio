@@ -1292,7 +1292,7 @@ nav {
 
 	#datos-card li {
 		margin-left: 15px;
-		background: ;
+		
 	}
 }
 
@@ -1307,5 +1307,14 @@ nav {
 
 	#datos-card {
 		overflow: auto;
+	}
+}
+
+@media only screen and (max-width: 1290px) {
+
+	.containerBanner {
+		padding-left: -500px;
+		background-color: red;
+		display: none;
 	}
 }

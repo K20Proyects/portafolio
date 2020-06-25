@@ -1056,3 +1056,12 @@ nav {
 #online-fix h2 {
 	color: #f44336;
 }
+
+/* last-fix */
+@media only screen and (max-width: 1310px) {
+	background: red;
+}
+
+#li a {
+	border-bottom: 1px solid orange;
+}
