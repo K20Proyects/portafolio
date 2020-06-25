@@ -1151,3 +1151,13 @@ footer {
 	background-color: ;
 	border-bottom: 1px solid orange;
 }
+
+#table {
+	background-color: #24242a;
+}
+
+@media only screen and (max-width: 583px) {
+	.main-22 {
+		padding-top: 0px;
+	}
+}

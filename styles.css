@@ -1065,3 +1065,34 @@ nav {
 #li a {
 	border-bottom: 1px solid orange;
 }
+
+@media only screen and (max-width: 500px) {
+	#nose {
+		margin-left: 250px;
+	}
+}
+
+
+@media only screen and (max-width: 475px) {
+	#nose {
+		margin-left: 230px;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	#nose {
+		margin-left: 210px;
+	}
+}
+
+@media only screen and (max-width: 433px) {
+	#nose {
+		margin-left: 190px;
+	}
+}
+
+@media only screen and (max-width: 361px) {
+	#nose {
+		margin-left: 150px;
+	}
+}
